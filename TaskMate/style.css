@@ -35,7 +35,7 @@ header h1 {
 nav a {
   margin-left: 10px;
   text-decoration: none;
-  color: #ffffff;
+  color: rgb(70, 68, 68);
   font-weight: 600;
   padding: 3px 6px;
   border-radius: 4px;
@@ -235,3 +235,4 @@ body {
   background-attachment: fixed;
   font-family: Arial, sans-serif;
 }
+
