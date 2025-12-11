@@ -35,7 +35,7 @@ header h1 {
 nav a {
   margin-left: 10px;
   text-decoration: none;
-  color: rgb(70, 68, 68);
+  color:rgb(70, 68, 68);
   font-weight: 600;
   padding: 3px 6px;
   border-radius: 4px;
@@ -228,7 +228,7 @@ a {
 }
 body {
  
-  background-image: url(https://wallpapers.com/images/hd/high-resolution-wood-background-6zzehaz6kwqs80xc.jpg);
+  background-image:url(https://wallpapers.com/images/hd/high-resolution-wood-background-6zzehaz6kwqs80xc.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
